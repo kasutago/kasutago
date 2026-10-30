@@ -1,6 +1,6 @@
 ## Hola, soy kasutago 👋
 
-Desarrollador **Python** y fan de **Linux**. Hago herramientas de escritorio, bots y
+Desarrollador **Python** y fan de **Linux**. Hago herramientas de escritorio y
 automatizaciones que resuelven problemas reales, y me gusta especialmente la
 **IA que corre en tu propia PC**, sin depender de servicios de pago.
 
@@ -16,7 +16,7 @@ automatizaciones que resuelven problemas reales, y me gusta especialmente la
 
 | Proyecto | Qué es |
 | --- | --- |
-| **Traductor Ren'Py** | Traduce juegos de Ren'Py al español sin internet: extrae y decompila el juego, traduce con MarianMT, revisa las líneas dudosas y exporta un parche listo para compartir. |
+| [**Traductor Ren'Py**](https://github.com/kasutago/traductor-renpy) | Traduce juegos de Ren'Py al español sin internet: extrae y decompila el juego, traduce con MarianMT, revisa las líneas dudosas y exporta un parche listo para compartir. |
 | **Grimorio** | Aventura de texto con IA local (GTK4 + LM Studio), con partidas guardadas, ramas y narrador. |
 
 ### 🧰 Herramientas
