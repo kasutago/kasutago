@@ -7,7 +7,6 @@ automatizaciones que resuelven problemas reales, y me gusta especialmente la
 ### 🛠️ Qué hago
 
 - **Automatización con Python**: scripts para archivos, Excel/CSV y tareas repetitivas
-- **Bots de Telegram** a medida
 - **Scraping**: extraer y ordenar datos de páginas web
 - **Apps de escritorio** con GTK4 / libadwaita, Tkinter o Avalonia (C#)
 - **IA local**: traducción automática (MarianMT, CTranslate2) y modelos de lenguaje con LM Studio
